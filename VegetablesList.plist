@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Batata</key>
+	<string>batata.jpg</string>
+	<key>Bean Sprouts</key>
+	<string>bean-sprouts.jpg</string>
+	<key>Black Beans</key>
+	<string>black-beans.jpg</string>
+	<key>Cabbage</key>
+	<string>cabbage.jpg</string>
+	<key>Capsicum</key>
+	<string>capsicum.jpg</string>
+	<key>Carrot</key>
+	<string>carrot.jpg</string>
+	<key>Celery</key>
+	<string>celery.jpg</string>
+	<key>Chilly</key>
+	<string>chilly.jpg</string>
+	<key>Egg Plant</key>
+	<string>egg-plant.jpg</string>
+	<key>Garlic</key>
+	<string>garlic.jpg</string>
+	<key>Ginger</key>
+	<string>ginger.jpg</string>
+	<key>Okra</key>
+	<string>okra.jpg</string>
+	<key>Onion</key>
+	<string>onion.jpg</string>
+	<key>Pepper</key>
+	<string>pepper.jpg</string>
+	<key>Patato</key>
+	<string>potato.jpg</string>
+	<key>Shallot</key>
+	<string>shallot.jpg</string>
+</dict>
+</plist>
